@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "title": "Task Title",
+    "status": "pending" // Options: "pending", "in progress", "done"
+  }
+  
