@@ -14,18 +14,19 @@ A simple Command-Line Interface (CLI) application to manage and track tasks. Thi
 
 ---
 
-## Prerequisites
+# Task Tracker
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
-
----
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Installation
+
 
 ### 1. Clone the Repository
 
 git clone https://github.com/shaileshdhandhukiya/Task-Tracker-cli.git
 cd task-cli
+
+https://roadmap.sh/projects/task-tracker
 
 ## Installation
 
