@@ -23,10 +23,10 @@ A simple Command-Line Interface (CLI) application to manage and track tasks. Thi
 ## Installation
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/shaileshdhandhukiya/Task-Tracker-cli.git
 cd task-cli
-```
+
 ## Installation
 
 # Add tasks
